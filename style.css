@@ -1,0 +1,148 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+    background-image: url(https://blog.360digitalskill.it/wp-content/uploads/2021/02/strategie-di-e-learning.jpg);
+    background-size: cover;
+}
+#logo{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 48px;
+    margin-bottom: 10px;
+}
+header{
+    background-color: rgba(17, 9, 68, 0.5);
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.menu{
+    float: right;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    margin-top: 33px;
+    margin-right: 10px;
+    color: aqua;
+}
+a{
+    text-decoration: none;
+    margin: 6px;
+    color:rgb(44, 168, 170);
+    padding: 2px;
+    border-radius: 5px;
+    font-weight: 540;
+}
+a:hover{
+    background-color: rgb(205, 215, 224);
+    transition: 0.5s ease-in-out;
+}
+.about{
+    margin-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(249, 249, 250);
+    background-color: rgba(17, 9, 68, 0.85);;
+    margin-left: 110px;
+    margin-right: 60%;
+    border-radius: 20px;
+}
+.about ul{
+    margin-left: 20px;
+    padding-bottom: 25px;
+}
+.about li{
+    padding-top: 20px;
+}
+.about h2{
+    padding-left: 10px;
+    padding-top: 15px;
+    color: aqua;
+}
+form{
+ float: right;
+ background-color: rgba(17, 9, 68, 0.85);
+ color: aliceblue;
+ margin-top: 50px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ margin-right: 90px;
+ border-radius: 20px;
+ padding-left: 10px;
+ padding-bottom: 10px;  
+ padding-right: 20px;
+}
+form div{
+    margin-top: 20px;
+}
+form h4{
+margin-top: 10px;
+color: aqua;
+}
+button{
+    border-radius: 10px;
+    padding: 5px;
+}
+#pass{
+    margin-left: 2.5px;
+}
+form h2{
+    margin-top: 15px;
+    color: aqua;
+}
+input{
+    border-radius: 12px;
+}
+.container{
+    margin-top: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 90px;
+}
+.p-box{
+    width: 18%;
+    float: left;
+    padding-left: 50px;
+    margin-left: 20px;
+    background-color: rgba(2, 2, 25, 0.79);
+    height: 300px;
+    margin-bottom: 100px;
+    color: aliceblue;
+    border-radius: 10px;
+
+}
+.p-box h3{
+    padding-top: 20px;
+    margin-bottom: 25px;
+    padding-left: 7px;
+    color: aqua;
+    
+}
+.p-box a{
+    color: aqua;
+}
+footer{
+    
+   
+    bottom: 0;
+    margin-top: 40%;
+    color: aliceblue;
+    text-align: center;
+    background-color: rgba(17, 9, 68, 0.85);
+    height: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    font-size: small;
+    padding-top: 10px ;
+ }
+ footer h3{
+     margin-top: 10px;
+ }
